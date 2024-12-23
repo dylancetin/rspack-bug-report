@@ -3,7 +3,4 @@ export default defineConfig({
   html: {
     template: "template.html",
   },
-  output: {
-    inlineScripts: true,
-  },
 });
